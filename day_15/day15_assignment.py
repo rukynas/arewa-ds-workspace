@@ -2,7 +2,7 @@ print('hello world')
 age = 25
 print(age)
 numbers = [1, 2, 3, 4, 5]
-numbers[5]
+numbers[0]
 
 import math
 math.pi
@@ -16,4 +16,4 @@ user['name']
 from math import pow
 pow(2,3)
 
-1/0
+1/1
